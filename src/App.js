@@ -99,7 +99,7 @@ export default function KasoowaFoodHubSplash() {
       {/* Hero Animation Section */}
       <section className="bg-white pt-2">
         <div className="max-w-7xl mx-auto">
-          <div className="relative w-full h-[250px] lg:h-[300px] max-w-[1920px] mx-auto">
+          <div className="relative w-full h-[230px] lg:h-[300px] max-w-[1920px] mx-auto">
             <div className="w-full h-full bg-gradient-to-br from-green-100 via-green-50 to-white flex items-center justify-center relative">
               <img
                 src="/images/Kasoowa-animation.gif"
