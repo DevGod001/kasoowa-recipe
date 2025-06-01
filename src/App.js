@@ -86,7 +86,9 @@ export default function KasoowaFoodHubSplash() {
               <Store className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">Kasoowa FoodHub</h1>
+              <h1 className="text-xl font-bold">
+                <span className="text-green-600">Kasoowa</span> <span style={{ color: '#eab308' }}>FoodHub</span>
+              </h1>
               <p className="text-xs text-green-600">Nigerian Groceries Marketplace</p>
             </div>
           </div>
