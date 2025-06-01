@@ -212,9 +212,10 @@ export default function KasoowaFoodHubSplash() {
                 onClick={() => setActiveTab('customer')}
                 className={`flex-1 py-4 px-6 text-center font-semibold transition-all duration-300 ${
                   activeTab === 'customer'
-                    ? 'bg-green-600 text-white shadow-lg'
+                    ? 'text-white shadow-lg'
                     : 'text-gray-600 hover:text-green-600'
                 }`}
+                style={{ backgroundColor: activeTab === 'customer' ? '#eab308' : 'transparent' }}
               >
                 <Users className="w-5 h-5 inline-block mr-2" />
                 I'm a Customer
