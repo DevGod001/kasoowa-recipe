@@ -126,7 +126,7 @@ export default function KasoowaFoodHubSplash() {
               is Here
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed">
-              Connect vendors with customers across Nigeria. Fresh ingredients, authentic flavors, 
+              Connect vendors with customers across Nigeria, US, UK and Canada. Fresh ingredients, authentic flavors, 
               delivered to your doorstep. Join our revolution in African food commerce.
             </p>
           </div>
@@ -156,7 +156,7 @@ export default function KasoowaFoodHubSplash() {
               <div className="mt-4 text-center">
                 <div className="inline-flex items-center space-x-2 bg-green-50 text-green-700 px-4 py-2 rounded-full text-sm font-medium">
                   <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
-                  <span>Be among the first to experience Kasoowa!</span>
+                  <span>Be among the first to experience Kasoowa and earn rewards, when you signup and refer!</span>
                 </div>
               </div>
             </div>
